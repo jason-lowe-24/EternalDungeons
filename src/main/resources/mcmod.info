@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "eternaldungeons",
+  "name": "Eternal Dungeons",
+  "description": "A mod that aims to procedurally generate dungeons, taking into account other installed mods.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["JayDawgScrub", "GooberGunter", "wafflednoah", "StrawberryMilky5"],
+  "credits": "The Forge guys, and the authors: Justin, Jason, Noah, Ivan",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
